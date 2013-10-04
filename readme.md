@@ -8,3 +8,5 @@ cd heroku-angularjs-todo
 heroku create <appname>
 git push heroku master
 ```
+
+Cool
